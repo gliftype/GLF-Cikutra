@@ -33,3 +33,8 @@ https://openfontlicense.org
 ## Contributors
 Sidiq Kamal Nurmawan <sidiq.nurmawan@gmail.com>
 Erwin Wirianata <wirianata.erwin@gmail.com>
+
+![Alt Text](GLF-Cikutra.png)
+
+# Notes
+This is a beta font with ongoing improvements and fixes. Every update will be published directly to the repository.
