@@ -138,7 +138,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:29:28 +0000";
 layers = (
 {
 anchors = (
@@ -3376,7 +3376,7 @@ unicode = 80;
 glyphname = Q;
 kernLeft = O;
 kernRight = O;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:28:50 +0000";
 layers = (
 {
 layerId = m002;
@@ -3716,7 +3716,7 @@ unicode = 344;
 glyphname = S;
 kernLeft = S;
 kernRight = S;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:26:09 +0000";
 layers = (
 {
 anchors = (
@@ -3948,7 +3948,7 @@ unicode = 350;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2026-09-26 05:03:16 +0000";
+lastChange = "2026-10-01 05:29:41 +0000";
 layers = (
 {
 anchors = (
@@ -4517,7 +4517,7 @@ unicode = 360;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2026-09-19 03:35:36 +0000";
+lastChange = "2026-10-01 05:29:18 +0000";
 layers = (
 {
 layerId = m002;
@@ -4582,7 +4582,7 @@ unicode = 86;
 glyphname = W;
 kernLeft = V;
 kernRight = V;
-lastChange = "2026-09-19 03:35:36 +0000";
+lastChange = "2026-10-01 05:26:56 +0000";
 layers = (
 {
 anchors = (
@@ -4827,7 +4827,7 @@ unicode = 7808;
 glyphname = X;
 kernLeft = X;
 kernRight = X;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:28:59 +0000";
 layers = (
 {
 layerId = m002;
@@ -5398,7 +5398,7 @@ unicode = 379;
 glyphname = a;
 kernLeft = o;
 kernRight = n;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:27:54 +0000";
 layers = (
 {
 anchors = (
@@ -8643,7 +8643,7 @@ unicode = 241;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:26:51 +0000";
 layers = (
 {
 anchors = (
@@ -9653,7 +9653,7 @@ unicode = 351;
 glyphname = t;
 kernLeft = t;
 kernRight = t;
-lastChange = "2026-09-26 05:02:07 +0000";
+lastChange = "2026-10-01 05:58:32 +0000";
 layers = (
 {
 anchors = (
@@ -10270,7 +10270,7 @@ unicode = 361;
 glyphname = v;
 kernLeft = v;
 kernRight = v;
-lastChange = "2026-09-26 05:02:45 +0000";
+lastChange = "2026-10-01 05:58:55 +0000";
 layers = (
 {
 layerId = m002;
@@ -10333,7 +10333,7 @@ unicode = 118;
 glyphname = w;
 kernLeft = v;
 kernRight = v;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:26:23 +0000";
 layers = (
 {
 anchors = (
@@ -10578,7 +10578,7 @@ unicode = 7809;
 glyphname = x;
 kernLeft = v;
 kernRight = v;
-lastChange = "2026-09-19 03:34:51 +0000";
+lastChange = "2026-10-01 05:26:07 +0000";
 layers = (
 {
 layerId = m002;
@@ -18971,10 +18971,10 @@ y = -61.24234;
 "@MMK_R_s" = -155;
 "@MMK_R_t" = -135;
 "@MMK_R_v" = -187;
-i = -45;
-h = -55;
-k = -55;
 b = -55;
+h = -55;
+i = -45;
+k = -55;
 l = -55;
 };
 "@MMK_L_U" = {
@@ -18988,6 +18988,10 @@ l = -55;
 "@MMK_R_X" = -13.12336;
 "@MMK_R_o" = -61.24234;
 "@MMK_R_period" = -96.23797;
+"@MMK_R_t" = -30;
+};
+"@MMK_L_X" = {
+"@MMK_R_o" = -20;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -34.99562;
@@ -19005,28 +19009,34 @@ l = -55;
 "@MMK_R_two" = -34.99562;
 };
 "@MMK_L_n" = {
-"@MMK_R_T" = -40;
+"@MMK_R_A" = -20;
+"@MMK_R_T" = -60;
+"@MMK_R_V" = -30;
 "@MMK_R_f" = -8.74891;
 "@MMK_R_n" = -8.74891;
 "@MMK_R_o" = -17.49781;
 "@MMK_R_period" = -43.74453;
-"@MMK_R_t" = -26.24672;
+"@MMK_R_t" = -46;
 "@MMK_R_v" = -21.87227;
 };
 "@MMK_L_o" = {
+"@MMK_R_O" = -30;
 "@MMK_R_T" = -160;
 "@MMK_R_f" = -34.99562;
 "@MMK_R_n" = -13.12336;
 "@MMK_R_o" = -26.24672;
 "@MMK_R_r" = -21.87227;
 "@MMK_R_s" = -13.12336;
-"@MMK_R_t" = -43.74453;
+"@MMK_R_t" = -34;
 "@MMK_R_v" = -69.99125;
 };
 "@MMK_L_period" = {
 "@MMK_R_zero" = -43.74453;
 };
 "@MMK_L_r" = {
+"@MMK_R_O" = -20;
+"@MMK_R_T" = -120;
+"@MMK_R_X" = -80;
 "@MMK_R_n" = -26.24672;
 "@MMK_R_o" = -69.99125;
 "@MMK_R_period" = -69.99125;
@@ -19047,6 +19057,8 @@ s = -52.49344;
 "@MMK_R_v" = -61.24234;
 };
 "@MMK_L_t" = {
+"@MMK_R_T" = -90;
+"@MMK_R_V" = -20;
 "@MMK_R_n" = -4.37445;
 "@MMK_R_o" = -26.24672;
 "@MMK_R_t" = -43.74453;
@@ -19060,6 +19072,8 @@ s = -52.49344;
 "@MMK_R_zero" = -26.24672;
 };
 "@MMK_L_v" = {
+"@MMK_R_A" = -100;
+"@MMK_R_T" = -150;
 "@MMK_R_n" = -8.74891;
 "@MMK_R_o" = -69.99125;
 "@MMK_R_period" = -87.48907;
@@ -19099,6 +19113,15 @@ space = {
 x = {
 "@MMK_R_period" = -26.24672;
 };
+n = {
+"@MMK_R_t" = -86;
+};
+h = {
+"@MMK_R_t" = -86;
+};
+m = {
+"@MMK_R_t" = -76;
+};
 };
 m003 = {
 "@MMK_L_A" = {
@@ -19136,6 +19159,7 @@ y = -17.49781;
 "@MMK_R_T" = -26.24672;
 "@MMK_R_o" = -8.74891;
 "@MMK_R_t" = -8.74891;
+"@MMK_R_v" = -30;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -78.74016;
@@ -19150,17 +19174,28 @@ y = -17.49781;
 "@MMK_R_A" = -87.48907;
 "@MMK_R_O" = -26.24672;
 "@MMK_R_o" = -69.99125;
+"@MMK_R_v" = -30;
+};
+"@MMK_L_X" = {
+"@MMK_R_o" = 0;
+"@MMK_R_v" = -20;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -34.99562;
 };
 "@MMK_L_n" = {
+"@MMK_R_V" = -10;
 "@MMK_R_n" = 0;
 "@MMK_R_o" = -8.74891;
+"@MMK_R_t" = -30;
+"@MMK_R_v" = -40;
 };
 "@MMK_L_o" = {
+"@MMK_R_T" = -35;
+"@MMK_R_V" = -30;
 "@MMK_R_n" = -4.37445;
 "@MMK_R_s" = -8.74891;
+"@MMK_R_t" = -30;
 "@MMK_R_v" = -69.99125;
 };
 "@MMK_L_r" = {
@@ -19175,6 +19210,9 @@ y = -17.49781;
 "@MMK_R_one" = -26.24672;
 };
 "@MMK_L_v" = {
+"@MMK_R_S" = -10;
+"@MMK_R_V" = -30;
+"@MMK_R_X" = -20;
 "@MMK_R_n" = -8.74891;
 "@MMK_R_o" = -52.49344;
 "@MMK_R_period" = -78.74016;
@@ -19229,7 +19267,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Glif Type Foundry";
+value = "Gliftype Foundry";
 }
 );
 },
@@ -19238,7 +19276,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2026 by Glif Type Foundry. All rights reserved.";
+value = "Copyright © 2026 by Gliftype Foundry. All rights reserved.";
 }
 );
 },
@@ -19258,7 +19296,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "GLF Cikutra™ is a trademark of Glif Type Foundry in Indonesia.";
+value = "GLF Cikutra™ is a trademark of Gliftype Foundry in Indonesia.";
 }
 );
 }
